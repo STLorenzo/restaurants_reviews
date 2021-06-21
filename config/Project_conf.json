@@ -1,0 +1,9 @@
+{
+  "base_path": "/home/strider/Documents/Projects/DataScienceProjects/restaurants_reviews",
+  "dirs": {
+    "config_dir": "config",
+    "data_dir": "data",
+    "doc_dir": "doc",
+    "src_dir": "src"
+  }
+}
